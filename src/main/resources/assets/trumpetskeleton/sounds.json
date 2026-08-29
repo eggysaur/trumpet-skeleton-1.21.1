@@ -1,0 +1,9 @@
+{
+  "item.trumpet.doot": {
+    "category": "player",
+    "subtitle": "subtitles.trumpetskeleton.trumpet.doot",
+    "sounds": [
+      "trumpetskeleton:doot_doot"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "itemGroup.trumpetskeleton": "Trumpet Skeleton",
+  "item.trumpetskeleton.trumpet": "Trumpet",
+
+  "item.trumpetskeleton.trumpet_skeleton_spawn_egg": "Trumpet Skeleton Spawn Egg",
+  "entity.trumpetskeleton.trumpet_skeleton": "Trumpet Skeleton",
+  "subtitles.trumpetskeleton.trumpet.doot": "Trumpet doots",
+
+  "trumpetskeleton.configuration.title": "Example Mod Configs",
+  "trumpetskeleton.configuration.section.trumpetskeleton.common.toml": "Example Mod Configs",
+  "trumpetskeleton.configuration.section.trumpetskeleton.common.toml.title": "Example Mod Configs",
+  "trumpetskeleton.configuration.items": "Item List",
+  "trumpetskeleton.configuration.logDirtBlock": "Log Dirt Block",
+  "trumpetskeleton.configuration.magicNumberIntroduction": "Magic Number Text",
+  "trumpetskeleton.configuration.magicNumber": "Magic Number"
+}
